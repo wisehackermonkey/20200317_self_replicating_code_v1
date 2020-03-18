@@ -11,4 +11,8 @@ TODO
 
 ### Notes
 ----- 
-TODO
+How to create a quine 
+https://towardsdatascience.com/how-to-write-your-first-quine-program-947f2b7e4a6f
+
+Handling signels linux
+https://www.usna.edu/Users/cs/aviv/classes/ic221/s16/lec/19/lec.html
